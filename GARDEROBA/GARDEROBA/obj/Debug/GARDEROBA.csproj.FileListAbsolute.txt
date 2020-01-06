@@ -1,0 +1,25 @@
+C:\Users\sebak\Desktop\PROJEKD\GARDEROBA\GARDEROBA\bin\Debug\GARDEROBA.exe.config
+C:\Users\sebak\Desktop\PROJEKD\GARDEROBA\GARDEROBA\bin\Debug\GARDEROBA.exe
+C:\Users\sebak\Desktop\PROJEKD\GARDEROBA\GARDEROBA\bin\Debug\GARDEROBA.pdb
+C:\Users\sebak\Desktop\PROJEKD\GARDEROBA\GARDEROBA\obj\Debug\GARDEROBA.csprojAssemblyReference.cache
+C:\Users\sebak\Desktop\PROJEKD\GARDEROBA\GARDEROBA\obj\Debug\GARDEROBA.Form1.resources
+C:\Users\sebak\Desktop\PROJEKD\GARDEROBA\GARDEROBA\obj\Debug\GARDEROBA.Properties.Resources.resources
+C:\Users\sebak\Desktop\PROJEKD\GARDEROBA\GARDEROBA\obj\Debug\GARDEROBA.Start.resources
+C:\Users\sebak\Desktop\PROJEKD\GARDEROBA\GARDEROBA\obj\Debug\GARDEROBA.csproj.GenerateResource.cache
+C:\Users\sebak\Desktop\PROJEKD\GARDEROBA\GARDEROBA\obj\Debug\GARDEROBA.exe
+C:\Users\sebak\Desktop\PROJEKD\GARDEROBA\GARDEROBA\obj\Debug\GARDEROBA.pdb
+C:\Users\sebak\Desktop\PROJEKD\GARDEROBA\GARDEROBA\obj\Debug\GARDEROBA.OknoWyboru.resources
+C:\Users\sebak\Desktop\PROJEKD\GARDEROBA\GARDEROBA\obj\Debug\GARDEROBA.Glowny.resources
+C:\Users\dkule\Dropbox\Projekt (1)\GARDEROBA\GARDEROBA\GARDEROBA\bin\Debug\GARDEROBA.exe.config
+C:\Users\dkule\Dropbox\Projekt (1)\GARDEROBA\GARDEROBA\GARDEROBA\bin\Debug\GARDEROBA.exe
+C:\Users\dkule\Dropbox\Projekt (1)\GARDEROBA\GARDEROBA\GARDEROBA\bin\Debug\GARDEROBA.pdb
+C:\Users\dkule\Dropbox\Projekt (1)\GARDEROBA\GARDEROBA\GARDEROBA\obj\Debug\GARDEROBA.csprojAssemblyReference.cache
+C:\Users\dkule\Dropbox\Projekt (1)\GARDEROBA\GARDEROBA\GARDEROBA\obj\Debug\GARDEROBA.Glowny.resources
+C:\Users\dkule\Dropbox\Projekt (1)\GARDEROBA\GARDEROBA\GARDEROBA\obj\Debug\GARDEROBA.Form1.resources
+C:\Users\dkule\Dropbox\Projekt (1)\GARDEROBA\GARDEROBA\GARDEROBA\obj\Debug\GARDEROBA.OknoWyboru.resources
+C:\Users\dkule\Dropbox\Projekt (1)\GARDEROBA\GARDEROBA\GARDEROBA\obj\Debug\GARDEROBA.Properties.Resources.resources
+C:\Users\dkule\Dropbox\Projekt (1)\GARDEROBA\GARDEROBA\GARDEROBA\obj\Debug\GARDEROBA.Start.resources
+C:\Users\dkule\Dropbox\Projekt (1)\GARDEROBA\GARDEROBA\GARDEROBA\obj\Debug\GARDEROBA.csproj.GenerateResource.cache
+C:\Users\dkule\Dropbox\Projekt (1)\GARDEROBA\GARDEROBA\GARDEROBA\obj\Debug\GARDEROBA.exe
+C:\Users\dkule\Dropbox\Projekt (1)\GARDEROBA\GARDEROBA\GARDEROBA\obj\Debug\GARDEROBA.pdb
+C:\Users\dkule\Dropbox\Projekt (1)\GARDEROBA\GARDEROBA\GARDEROBA\obj\Debug\GARDEROBA.Dodawanie.resources
