@@ -25,6 +25,7 @@ namespace GARDEROBA
 
         private void logowanie_Click(object sender, EventArgs e)
         {
+            //u Sebastiana na komputerze logowanie działa
             /*SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\sebak\Documents\Data.mdf;Integrated Security=True;Connect Timeout=30");
             SqlDataAdapter sda = new SqlDataAdapter("Select Count(*) From LOGIN where Username = ' " + login.Text + "' and Password = '" + haslo.Text + " ' ",con);
             DataTable dt = new DataTable();
